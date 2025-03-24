@@ -3,6 +3,15 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
+        int[] numbers = { 1, 2, 3, 4, 5, 6 };
+
+        String[] names = { "Kasun", "Sanjeewa", "Piyumika", "Sathsarani" };
+
+        numbers[5] = 7;
+
+        System.out.println(numbers[5]);
+        System.out.println(names[0]);
+
         // int x = 2;
 
         // while (x <= 10) {
