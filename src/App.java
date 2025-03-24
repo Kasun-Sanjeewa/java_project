@@ -2,8 +2,26 @@
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-        System.out.println("This is my first program");
+
+        // System.out.println("Hello, World!");
+        // System.out.println("This is my first program");
+
+        // int number = 10;
+
+        // switch (number) {
+        // case 1:
+        // System.out.println("This is first number");
+        // break;
+        // case 2:
+        // System.out.println("This is second");
+        // break;
+        // case 3:
+        // System.out.println("This is third number");
+        // break;
+        // default:
+        // System.out.println("Invalid Number");
+        // break;
+        // }
 
         // int a = 100;
 
