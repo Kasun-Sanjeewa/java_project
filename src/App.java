@@ -3,14 +3,28 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-        int[] numbers = { 1, 2, 3, 4, 5, 6 };
+        // int[][] numbers = {
+        // { 1, 2, 3 },
+        // { 3, 4, 5 },
+        // { 6, 7, 8 }
+        // };
+        // --------------------------------------------------------------------
+        // System.out.println(numbers[2][2]);
+        // int[] numbers = new int[5];
 
-        String[] names = { "Kasun", "Sanjeewa", "Piyumika", "Sathsarani" };
+        // numbers[0] = 1;
+        // numbers[1] = 2;
 
-        numbers[5] = 7;
+        // System.out.println(numbers[5]);
 
-        System.out.println(numbers[5]);
-        System.out.println(names[0]);
+        // int[] numbers = { 1, 2, 3, 4, 5, 6 };
+
+        // String[] names = { "Kasun", "Sanjeewa", "Piyumika", "Sathsarani" };
+
+        // numbers[5] = 7;
+
+        // System.out.println(numbers[5]);
+        // System.out.println(names[0]);
 
         // int x = 2;
 
