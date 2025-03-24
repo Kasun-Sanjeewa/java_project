@@ -2,6 +2,20 @@
 
 public class App {
     public static void main(String[] args) throws Exception {
+
+        // ---------------------------------------------------------------------
+        // String x = "Hello";
+
+        // System.out.println(x.contains("lll"));
+
+        // String x = "Hello";
+        // String y = "World";
+
+        // System.out.println(x.concat(" ").concat(y));
+
+        // String name = "Hello World";
+
+        // System.out.println(name.toUpperCase());
         // --------------------------------------------------------------------
         // int[] numbers = { 10, 20, 30, 40, 50, 60 };
         // int max = 0;
