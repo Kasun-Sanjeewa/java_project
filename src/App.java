@@ -2,13 +2,24 @@
 
 public class App {
     public static void main(String[] args) throws Exception {
+        // --------------------------------------------------------------------
+        // int[] numbers = { 10, 20, 30, 40, 50, 60 };
+        // int max = 0;
+        // for (int i = 0; i < numbers.length; i++) {
 
+        // if (numbers[i] > max) {
+        // max = numbers[i];
+        // }
+
+        // }
+        // System.out.println("The highest number is: " + max);
+        // --------------------------------------------------------------------
         // int[][] numbers = {
         // { 1, 2, 3 },
         // { 3, 4, 5 },
         // { 6, 7, 8 }
         // };
-        // --------------------------------------------------------------------
+        // ---------------------------------------------------------------------
         // System.out.println(numbers[2][2]);
         // int[] numbers = new int[5];
 
