@@ -1,5 +1,10 @@
 package Pack2;
 
-class Saman {
+import Pack1.Kamal;
 
+public class Saman extends Kamal {
+    public static void main(String[] args) {
+        Saman obj1 = new Saman();
+
+    }
 }

@@ -1,5 +1,8 @@
 package Pack1;
 
-class Nimal {
+public class Nimal {
+    public static void main(String[] args) {
+        Kamal obj1 = new Kamal();
 
+    }
 }
